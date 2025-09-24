@@ -1,0 +1,23 @@
+# Python bytecode and cache
+pycache/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+venv.bak/
+ENV/
+
+# Editor configuration files
+.vscode/
+.idea/
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# Jarpy specific
+vineflower-*.jar

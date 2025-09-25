@@ -1,4 +1,4 @@
-# Jarpy Decompiler & Archiver
+# JarPy Decompiler & Archiver
 
 A robust Python tool to decompile and archive Java `.jar` files in bulk. It is designed to handle a large number of files efficiently by processing a folder of JARs.
 
@@ -49,7 +49,7 @@ The script will begin processing, and all output will be placed in `_decompiled_
 
 ## Getting Help
 
-If you encounter a bug or have a feature request, please [open an issue](https://github.com/Flaxmurt/Jarpy/issues) on the GitHub repository.
+If you encounter a bug or have a feature request, please [open an issue](https://github.com/Flaxmurt/JarPy/issues) on the GitHub repository.
 
 ---
 
